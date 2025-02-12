@@ -2,103 +2,59 @@
   Draft Footz ⚽
 </h1>
 
-<p align = "center">
-Draft Footz é um projeto desenvolvido em React + Typescript com o objetivo de facilitar a organização de torneios de futebol entre amigos ou clubes menores. Com o Draft Footz, os usuários podem criar e entrar em torneios de Fut7 de maneira organizada e simples.
+<p align="center">
+Draft Footz is a project developed using React and TypeScript, aimed at simplifying the organization of soccer tournaments among friends or smaller clubs. With Draft Footz, users can create and join Fut7 tournaments in an organized and simple manner.
 </p>
 
 ![Screenshot_5](https://user-images.githubusercontent.com/109770689/212016652-7a6c5177-6b29-402b-b819-7fea7beb0bc5.png)
 
-# 📁 Acesso ao projeto
+# 📁 Project Access
 
-[Figma](https://www.figma.com/file/JcuZkWrF8DFVWx9xIhFxWA/Draft-Footz?node-id=212%3A1488)
-<br>
-[Deploy da aplicação](https://a-five-vert.vercel.app/)
+[Application Deployment](https://a-five-vert.vercel.app/)
 
-# 🤔 Por quê o Draft Footz?
+# 🤔 Why Draft Footz?
 
-O gerenciamento de torneios e jogos é essencial para qualquer equipe esportiva. Com nosso aplicativo, você pode facilmente cadastrar seu time e participar de campeonatos, tornando a organização e planejamento dos jogos muito mais fácil. Além disso, o aplicativo fornece uma plataforma centralizada para que todos os jogadores e membros da equipe possam se comunicar e ficar atualizados sobre as próximas partidas e eventos. Não perca mais tempo lidando com papelada desnecessária e dificuldades de comunicação - nosso aplicativo é a solução perfeita para tornar sua equipe mais organizada e eficiente. Crie sua conta agora e experimente a praticidade e facilidade de gerenciar seus jogos e torneios com nosso aplicativo.
+Managing tournaments and matches is essential for any sports team. With our application, you can easily register your team and participate in championships, making game organization and planning much more convenient. Additionally, the application provides a centralized platform where all players and team members can communicate and stay updated on upcoming matches and events. Avoid paperwork and communication difficulties—our application is the perfect solution to make your team more organized and efficient. Create your account now and experience the ease of managing your games and tournaments with our platform.
 
 ![Screenshot_7](https://user-images.githubusercontent.com/109770689/212016708-b3bca245-b82d-4ec7-8c5d-2034180589c0.png)
 
+# 🏆 How to Use Draft Footz?
 
-# 🏆 Como utilizar o Draft Footz?
-
-Para utilizar o Draft Footz, é necessário que somente líderes de torneios ou donos de times se cadastrem no site para criar torneios, times ou até mesmo entrar em torneios de outros usuários. Dessa maneira, é possível solucionar a problemática da falta de organização nos jogos de futebol entre amigos.
+To use Draft Footz, only tournament leaders or team owners need to register on the site to create tournaments, teams, or even join other users' tournaments. This effectively addresses the lack of organization in casual soccer games among friends.
 
 ![Screenshot_6](https://user-images.githubusercontent.com/109770689/212016765-7ec40b99-757e-477b-b7f7-7a68d45bdff4.png)
 
+# 🛠️ How to Run the Project Locally?
 
-# 🛠️ Como faço para executar em minha máquina?
+To run the project, you need to have Node.js and Yarn installed on your machine.
 
-Para rodar o projeto, é necessário ter o Node.js e o yarn instalados em sua máquina.
-
-1. Clone o repositório:
+1. Clone the repository:
 ```  
 git clone https://github.com/draft-footz/draft-footz.git
 ```
 
-2. Acesse a pasta do projeto:
+2. Navigate to the project directory:
 ```  
 cd draft-footz
 ```
-3. Instale as dependências:
 
+3. Install dependencies:
 ```  
 yarn install
 ```
 
-4. Execute o projeto:
-
+4. Start the project:
 ```  
 yarn start
 ```
 
-5. Acesse a url http://localhost:3000 para visualizar o projeto.
+5. Access the application at **http://localhost:3000**.
 
+---
 
-# 🔔 Dependências externas
+## 📝 License
 
-Durante o desenvolvimento do Draft Footz, foram utilizadas as seguintes dependências:
+This project is licensed. See the [LICENSE](LICENSE.md) file for more details.
 
-```json
-{
-    "@hookform/resolvers": "^2.9.10",
-    "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
-    "@types/axios": "^0.14.0",
-    "@types/jest": "^27.0.1",
-    "@types/node": "^16.7.13",
-    "@types/react": "^18.0.0",
-    "@types/react-bootstrap": "^0.32.32",
-    "@types/react-dom": "^18.0.0",
-    "@types/react-icons": "^3.0.0",
-    "@types/react-lottie": "^1.2.6",
-    "@types/react-router-dom": "^5.3.3",
-    "@types/styled-components": "^5.1.26",
-    "@types/yup": "^0.32.0",
-    "framer-motion": "^8.1.7",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-hook-form": "^7.41.5",
-    "react-input-mask": "^2.0.4",
-    "react-router-dom": "^6.6.1",
-    "react-scripts": "5.0.1",
-    "react-toastify": "^9.1.1",
-    "styled-components": "^5.3.6",
-    "typescript": "^4.4.2",
-    "web-vitals": "^2.1.0",
-    "yarn": "^1.22.19",
-    "yup": "^0.32.11"
-  }
-```
-
-
-
-
-
-
-
-
-
+---
 
